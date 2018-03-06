@@ -1,0 +1,185 @@
+Marko Stanojlovic  
+“​IT ​specialist for Linux and open-source based technologies​” 
+Machova 1160/6, 120 00, Prague, Czech Republic  
++420 739 048 849 
+stanojlovic.marko@gmail.com  
+github.com/markostanojlovic 
+linkedin.com/in/markostanojlovic 
+
+Work experience 
+SUSE Linux  s.r.o.​ Prague, Czech Republic
+QA Engineer for Suse Enterprise Storage (Ceph based)
+IBM Global Services Delivery Centre s.r.o.​ Brno, Czech Republic
+IT Specialist 3rd Level - IMT France Storage Team (TSM and SAN) 
+Michelin Global Project Team for Storage and Backup systems
+S&T Serbia d.o.o.​ Belgrade, Serbia
+Data Center Services Engineer - Infrastructure services
+Robert Bosch GmbH​, Stuttgart, Germany 
+Internship: Vision inspection systems
+Vip mobile d.o.o.​ Belgrade, Serbia 
+Internship: Core Network and Services / Site development
+
+May 2017. - current 
+
+June 2013. - May 2017. 
+
+January 2011. - June 2013. 
+
+July – December 2010. 
+
+July – August 2009. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2017. 
+2016. 
+2016. 
+
+Selected Project 
+Product QA engineer for Suse Enterprise Storage based on Ceph - QA automation 
+Dedicated TSM infrastructure Focal Point for LVM customer 
+SAN team BAU for shared FR customers 
+      SAN zoning, LUN provisioning, basic Storage systems administration (DS8870, SVC) 
+ 
+ 
+Solution development in Michelin Global Project Team for storage and backup
+2016. 
+      Implementing SnapMirror to tape and NDMP backup solution for NetApp 8.3 CDOT clustered NAS
+2016. 
+      Technical lead for automation project for migrating backup system to new backup policy
+      Developing and deploying distributed backup solution with NetApp NAS storage, VSC with vSphere and TSM 2015. 
+2015. 
+      IBM ProtecTIER TS7600 VTL extension, upgrade and administration
+      Implementing high performance backup solution for IBM FLEX technology in customer specific environment 
+2015. 
+ 
+Administering TSM shared environment for shared customers for IMT France at IBM GSDC Brno
+      ​Responsible for configuring and maintaining TSM backup clients on various platforms: AIX, Linux,  Windows  
+        TSM Clients: BAC for AIX, Linux,Windows, TDP for VE VMWare, TDP Oracle, TDP SAP for Oracle and DB2, TDP MS SQL  
+        Storage Agent (LAN-FREE) maintenance/configuration on AIX and Windows servers 
+        Troubleshooting and resolving problems, advising OS teams for specific backup/restore methods 
+        Creating/Resolving tickets, implementing Changes and Service Requests according internal ITIL procedures 
+        Applying  performance tuning recommendations (Oracle on AIX performance optimization for 8TB+ DB LANFREE backup) 
+ 
+Implementing SAP on AIX and IBM Power and HP 3PAR (configuring SAN, IBM PowerVM and PowerHA)
+IBM TSM on AIX implementation (TDP for SAP and Oracle)
+EMC NetWorker on SLES 11 implementation (Installing TSM and TDP for DB2 clients)
+Upgrade and optimization of backup & recovery system - EMC NetWorker from 7.4.4 to 7.6.3. on  
+Solaris 9, Quantum Scalar i49 LTO4 tape library
+Maintenance and administration of EMC storage products Clariion, VNX, Symmetrix, Avamar, Data Domain:
+        Break&Fix HW replacement, FW upgrades, Adding expansion enclosures, Storage space provisioning 
+ 
+ 
+
+2012. 
+2012. 
+2012. 
+
+2013/14. 
+
+2012. 
+2012. 
+
+ 
+
+ 
+
+ Page 1 of 2 
+
+ 
+
+Certificates/ Trainings 
+ 
+Scrum Agile Software development - Suse interal training 
+Project Management fundamentals training - CCF Consulting
+NetApp academy education: Performance troubleshooting, administration of CIFS and NFS shares
+Cloud Computing solutioning basics (IBM internal)
+BASH and Korn Shell Programming (IBM internal)
+Project Management Orientation PM54G training (IBM internal based on PMP certification programme)
+Python programming (IBM internal)
+Project Management essentials education (IBM internal)
+Certified IT Specialist - Experienced level - Storage technical focus
+
+2018. 
+2018. 
+2017. 
+2016. 
+2016. 
+2016. 
+2016. 
+2016. 
+2016. 
+
+Technology skills 
+Programming Languages
+Configuration management
+Version control 
+Virtualization/Cloud 
+Data/web scraping 
+Other technologies/tools 
+
+DBs 
+Containairs 
+
+​// C/C++ // Bash // Python // Go //  
+​// Salt Stack // Ansible //  
+​// git // github // gitlab // 
+​// Ceph storage // QEMU/libvirt // openStack // terraform //
+​// Scrapy // Beautifulsoup //  
+​// Elasticsearch,Logstash,Kibana (ELK) // Selenium // Python Unittest // Suse autoyast 
+// PhantomJS // SQL query language // Jenkins CI //  
+// mySQL // PostreSQL // IBM DB2 //  
+// Docker // Kubernetes // 
+
+ 
+
+ 
+
+ 
+
+Education 
+University of Belgrade, School of Electrical Engineering​, ​Master’s Degree 
+Objective:  Radio communications and system engineering 
+Thesis: FPGA implementation of Groestl SHA-3 hash algorithm,  
+Mentor: Ph.D. Aleksandra Smiljanic 
+Average grade: 9.57
+ 
+University of Belgrade, School of Electrical Engineering 
+Telecommunications and information technology/Radio communications 
+Graduate theme: Design of web page compatible with mobile devices,  
+Mentor: Ph.D. Aleksandra Smiljanic 
+Average grade: 8.8
+ 
+Gymnasium „Svetozar Markovic“, Jagodina 
+
+Languages 
+• English (C1 level) 
+
+Other 
+
+• German (A2 level) 
+
+• Czech (B1 level) 
+
+Driving license B category 
+Hobbies: Afro-Cuban and latin dances, Music - playing percussions  
+
+2009-2012. 
+
+2005-2009. 
+
+2001-2005. 
+
+ 
+
+ Page 2 of 2 
+
+
