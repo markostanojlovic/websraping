@@ -1,0 +1,2 @@
+# bezrealitky.cz scraper
+
