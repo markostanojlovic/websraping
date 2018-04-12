@@ -19,4 +19,8 @@ yum install -y google-chrome-stable
  - Python :
    - Install Selenium: `sudo pip install selenium`
    - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) - Webdriver for Chrome : 
+   ```
+   wget -P ~/Downloads/ https://chromedriver.storage.googleapis.com/2.37/chromedriver_linux64.zip
+   sudo unzip -d /usr/local/bin/ ~/Downloads/chromedriver_linux64.zip
+   ```
  
