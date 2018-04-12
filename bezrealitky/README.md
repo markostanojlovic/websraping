@@ -23,4 +23,5 @@ yum install -y google-chrome-stable
    wget -P ~/Downloads/ https://chromedriver.storage.googleapis.com/2.37/chromedriver_linux64.zip
    sudo unzip -d /usr/local/bin/ ~/Downloads/chromedriver_linux64.zip
    ```
+   - Python ChromeDriver usage: `driver = webdriver.Chrome('/usr/local/bin/chromedriver')`
  
