@@ -30,3 +30,5 @@ insert_result = collection.insert_one(data) # insert one document
 insert_result.inserted_id
 db.collection_names(include_system_collections=False) # list all collections in the db 
 pprint(collection.find_one({'Číslo inzerátu:': '404359'}))
+
+driver.close()
